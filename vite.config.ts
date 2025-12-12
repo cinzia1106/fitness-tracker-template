@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // 記得這裡要改成您的 Repo 名稱 (例如 /fitness-tracker/)
-  base: '/fitness-tracker/',
+  // [修改] 這裡要改成您的 "公開庫名稱"
+  base: '/fitness-tracker-template/',
 
   build: {
     // 增加這個設定來解決 500kb 警告

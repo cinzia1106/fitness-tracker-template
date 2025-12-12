@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cinzia1106.github.io/fitness-tracker",
+  "homepage": "https://cinzia1106.github.io/fitness-tracker-template",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
